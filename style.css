@@ -11,5 +11,12 @@ h2{
 h3{
     color: burlywood;
     font-size: 28px;
-    
+
+}
+
+li:first-child{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 50px;
 }
